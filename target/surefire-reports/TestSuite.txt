@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 11.321 s <<< FAILURE! - in TestSuite
+UpdateRecords(PutMethodTest)  Time elapsed: 1.889 s  <<< FAILURE!
+java.lang.AssertionError: expected [200] but found [429]
+	at PutMethodTest.UpdateRecords(PutMethodTest.java:28)
+
